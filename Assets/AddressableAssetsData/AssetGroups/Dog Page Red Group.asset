@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Dog Page Red Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Dog Page Red Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 39df6ee0191d49649a3052f0eb24638f
+  m_SerializeEntries:
+  - m_GUID: 2204f4732899c1d4a8cdda36e240ed3a
+    m_Address: Dog Red Page
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 138459cf07eb7ec4c9f6a58791451e7b, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c88340c69551e92419848fda48e0ecab, type: 2}
+    - {fileID: 11400000, guid: 640f6d973e166e9488293043987a9232, type: 2}
